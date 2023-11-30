@@ -15,4 +15,4 @@
 > - For each password generation rule, the user must select one option; otherwise, there would be an error message.
 
 > <h4>Effect demonstration:</h4>
-> <img src="https://github.gatech.edu/xmin9/PracticeProjects/blob/main/password-generator/images/pasword-generator-effect.gif">
+> <img src="https://github.com/AmandaXiaoxiaMin/JavasScriptProjects/blob/main/password-generator/images/pasword-generator-effect.gif">
